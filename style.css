@@ -452,7 +452,7 @@ nav{
 .help:hover{
     border-bottom: 4px rgb(74, 74, 74) solid;
 }
-@media  only screen and (max-width:767px){
+@media  only screen and (max-width:882px){
 
    
 
@@ -479,7 +479,6 @@ nav{
 
     }
     .div-right .img-1{
-        border: 1px solid red;
         margin: 20vh 0vh 0vh 0vh;
         display: none;
         
@@ -487,7 +486,7 @@ nav{
 .div-right .img-2{
     top: 16vh;
     position: absolute;
-    left: 5vh;
+    left: 9vh;
 }
 .div-right .img-3{
     display: none;
@@ -547,7 +546,7 @@ nav{
 }
 .photo-4 h5{
     position: absolute;
-    top: 32vh;
+    top: 28vh;
     color: rgb(255, 255, 255);
 }
 .footer-img{
